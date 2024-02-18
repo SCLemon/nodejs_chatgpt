@@ -1,4 +1,4 @@
-# gpt
+# chatgpt with nodeJS
 
 ## Project setup
 ```
