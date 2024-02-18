@@ -4,7 +4,11 @@
 ```
 npm install
 ```
-
+## OpenAI Key setup
+```
+go to file: https://github.com/SCLemon/nodejs_chatgpt/blob/main/src/components/Search.vue
+and setup you own OpenAI key in specific position.
+```
 ### Compiles and hot-reloads for development
 ```
 npm run serve
